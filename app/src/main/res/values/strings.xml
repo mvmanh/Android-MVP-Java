@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Model View Presenter</string>
+    <string name="mainActivity_label">Vnexpress - Tin tức đời sống 24 giờ | Cập nhật liên tục</string>
+
+    <string name="error_network_connection">There was an error with internet connection</string>
+    <string name="error_internal_server">An error has occured in the webserver</string>
+    <string name="error_others">Unkown error! Try again later</string>
+
+    <string name="message_loading_content">Loading content from server</string>
+</resources>

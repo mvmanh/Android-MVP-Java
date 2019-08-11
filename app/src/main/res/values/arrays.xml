@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="news_title">
+        <item>Những bất thường đêm 3 người trong gia đình bị giết ở Bình Dương</item>
+        <item>Hà Nội bức xúc vì vạ lây từ pháo sáng của CĐV Hải Phòng</item>
+        <item>Chuyên gia: \'ACV nên dừng ngay việc thu phí ôtô vào sân bay</item>
+        <item>Nghi phạm trong đường dây ma túy hơn 600 kg giàu bất thường</item>
+        <item>Khách hàng \'sốc\' vì hóa đơn tiền điện tăng vọt</item>
+        <item>Hơn 6 tấn ma túy bị Việt Nam phát hiện trong 4 tháng</item>
+        <item>Binh sĩ Mỹ bị lính Mexico tước súng ngay trên lãnh thổ</item>
+        <item>Trung Quốc bắt cựu chủ tịch Interpol với cáo buộc tham nhũng</item>
+        <item>Ba giáo viên Hoà Bình bị bắt vì liên quan gian lận điểm thi THPT</item>
+        <item>Các sao châu Á hủy hoại cuộc đời, sự nghiệp vì ma túy</item>
+        <item>Số người tử vong vì kiệt sức phục vụ bầu cử Indonesia tăng lên</item>
+        <item>Cục trưởng CSGT: \'Chặn tài xế vi phạm nồng độ cồn cạnh quán bia rất phản cảm</item>
+        <item>Cận vệ của Kim Jong-un chạy theo tàu vào ga ở Nga để lau cửa</item>
+        <item>Danh hài Ukraine muốn thanh lọc quân đội sau khi đắc cử tổng thống</item>
+        <item>Các con của thương nhân Sri Lanka là thủ phạm đánh bom khủng bố</item>
+        <item>Cao tốc nối TP HCM với Tây Ninh dự kiến đầu tư hơn 10.000 tỷ đồng</item>
+        <item>Gia cảnh khó khăn của nữ lao công bị tài xế say rượu đâm tử vong</item>
+        <item>Ôtô vào sân bay đón trả khách sẽ không mất phí</item>
+        <item>Nữ tài xế tử nạn khi liên tục gọi điện lúc lái xe</item>
+        <item>Cỗ máy tỉa cây siêu tốc của công ty Mỹ</item>
+    </string-array>
+
+    <string-array name="news_image">
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/hientruong-1556095660-6824-1556097063_r_500x300.jpg</item>
+        <item>https://i-thethao.vnecdn.net/2019/04/24/a2-1556089519-5356-1556089561_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/tsnhat117587152206422927026973-7530-4085-1556102930_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/nghican1-1556100221-1738-1556101645_r_140x84.jpg</item>
+        <item>https://i-kinhdoanh.vnecdn.net/2019/04/24/dienHCMThnhNguyn-1556079584-3610-1556080102_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/so-luong-ma-tuy-khung-do-ve-viet-nam-thoi-gian-qua-1556081817_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/linh222901549244621-1556099618-1447-1556099696_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/manhhoanhvi22451553736118-1556-4096-4440-1556103966_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/Bican-1556085753-7301-1556085774_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/nhanveinkiemphieu1-1556099265-5278-1556099436_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/nhanveinkiemphieu1-1556099265-5278-1556099436_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/Cuctruongcsgt-1556079108-8111-1556079390_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/canvecuakimjongun-1556096398-4244-1556096409_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/ukraine-1556096343-5927-1556096503_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/126177786950613imagea401556030-2957-1884-1556078953_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/mocbai-mhry-khea-oqet-15560737-2979-6137-1556073841_r_140x84.png</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/Duc-Anh-1726-1556087288_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/noi-bai-3096-1556079213_r_140x84.jpg</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/23/xe2-1556005918-1556005932-5961-1556006239_r_140x84.png</item>
+        <item>https://i-vnexpress.vnecdn.net/2019/04/24/Maytiacayset-1556094565-5676-1556094852_r_140x84.jpg</item>
+    </string-array>
+</resources>
